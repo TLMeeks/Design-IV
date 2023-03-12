@@ -20,3 +20,8 @@ df- this does not seem to be working on my laptop I am unsure of why
 mkdir demo
 ![image](https://user-images.githubusercontent.com/87450798/224522924-c838e3b4-d64a-4f6b-9605-b919979064ef.png)
 cd demo
+ping localhost
+![image](https://user-images.githubusercontent.com/87450798/224526700-858f56fe-38b5-4fa4-a584-f4ee52f6886b.png)
+netstat
+![image](https://user-images.githubusercontent.com/87450798/224526725-82f9b478-8608-49ce-a93a-1fbe8cd7e022.png)
+![image](https://user-images.githubusercontent.com/87450798/224526742-cc559dae-0357-45a3-86df-2bdecf59338e.png)
