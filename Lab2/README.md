@@ -20,8 +20,23 @@ df- this does not seem to be working on my laptop I am unsure of why
 mkdir demo
 ![image](https://user-images.githubusercontent.com/87450798/224522924-c838e3b4-d64a-4f6b-9605-b919979064ef.png)
 cd demo
+nano file
+![image](https://user-images.githubusercontent.com/87450798/225107529-65f65e9c-51dd-4990-93b9-8543a1f1211f.png)
+cat file
+![image](https://user-images.githubusercontent.com/87450798/225108117-79468be5-03cd-40aa-ab91-57a104aa2a50.png)
+cp file file 1 - copies file to file 1
+mv file file2 - moves file to file2
+rm file2 - removes file2
+![image](https://user-images.githubusercontent.com/87450798/225108631-cec7381a-3f69-467f-a63c-ba15c6453225.png)
+clear - clears directory
+man uname - Linuz command that displays  user manuak fir uname command
+uname -a - prints operating sustem as well as kerne
+![image](https://user-images.githubusercontent.com/87450798/225110776-f28cd16e-a489-4d9d-8d79-af4c907a70d9.png)if
+ifconfig - should  assign address to network but bash was not found
+![image](https://user-images.githubusercontent.com/87450798/225110882-f4ea8d95-c67b-4269-9322-454a1855dbb5.png)
 ping localhost
 ![image](https://user-images.githubusercontent.com/87450798/224526700-858f56fe-38b5-4fa4-a584-f4ee52f6886b.png)
 netstat
 ![image](https://user-images.githubusercontent.com/87450798/224526725-82f9b478-8608-49ce-a93a-1fbe8cd7e022.png)
 ![image](https://user-images.githubusercontent.com/87450798/224526742-cc559dae-0357-45a3-86df-2bdecf59338e.png)
+
