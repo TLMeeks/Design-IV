@@ -21,3 +21,5 @@ python3 major_minor_demo1.py
 ![image](https://user-images.githubusercontent.com/87450798/236041066-aea08631-d09a-4097-82ca-6ca9701119a4.png)
 legend_demo.py
 ![image](https://user-images.githubusercontent.com/87450798/236041410-ccbdc1a7-a18d-4ad9-9f3c-787c14df6a3f.png)
+Thingspeak not working!!!!!! (CANNOT DO LAB 7)
+![image](https://user-images.githubusercontent.com/87450798/236050740-e5a37ca5-05c5-46d2-94c5-83536e492fa8.png)
